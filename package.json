@@ -1,0 +1,22 @@
+{
+  "name": "novelty-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "1.6.12",
+    "express": "^4.16.4",
+    "fabric": "2.4.5",
+    "fs": "0.0.1-security",
+    "imagemagick-stream": "^4.1.1",
+    "minimist": "^1.2.0",
+    "request": "^2.88.0",
+    "sync-request": "^6.1.0",
+    "tempfile": "^2.0.0"
+  }
+}
