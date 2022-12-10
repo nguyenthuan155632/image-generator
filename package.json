@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "canvas": "1.6.12",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fabric": "2.4.5",
     "fs": "0.0.1-security",
     "imagemagick-stream": "^4.1.1",
